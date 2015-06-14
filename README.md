@@ -1,5 +1,5 @@
 
-Cirru Parser in Racket
+Cirru Sepal in Racket
 ---
 
 Convert Cirru to Racket quoted form of expression.
